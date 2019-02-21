@@ -1,0 +1,50 @@
+body {
+    background-image: url(images/concrete_seamless.png)
+}
+html{
+    min-height: 100%;
+    position: relative;
+}
+
+.footer {
+position: fixed;
+bottom: 0;
+left: 0;
+width: 100%;
+
+}
+.container-fluid {
+    padding: 0;
+}
+
+.kitty {
+    width: 25%;
+}
+.card {
+    margin: 5% 0 5% 0;
+    width: 100%;
+}
+.main {
+    margin-bottom: 15%
+}
+@media screen and (max-width: 640px){
+.row {
+    margin: 0;
+}
+
+.kitty {
+    width: 100%;
+}
+
+.card-img-top {
+
+}
+.navbar-brand {
+    width: 100%;
+    display: block;
+    float: initial;
+}
+#navbarSupportedContent {
+    display: inline;
+}
+}
