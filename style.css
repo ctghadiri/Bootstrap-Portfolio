@@ -27,6 +27,11 @@ width: 100%;
 .main {
     margin-bottom: 15%
 }
+@media screen and (max-width: 768px){
+.kitty {
+    width: 50%;
+}
+}
 @media screen and (max-width: 640px){
 .row {
     margin: 0;
@@ -36,9 +41,6 @@ width: 100%;
     width: 100%;
 }
 
-.card-img-top {
-
-}
 .navbar-brand {
     width: 100%;
     display: block;

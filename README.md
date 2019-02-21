@@ -17,9 +17,11 @@
 
 https://ctghadiri.github.io/Bootstrap-Portfolio/
 
-### Picture of Final Product
+### GIF of Final Product
 
-![alt text](hw1-screenshot.png "HW2")
+![Alt Text](Bootstrap-Portfolio.gif)
+
+
 
 ### Learning Points
 * Bootstrap is an amzing tool but limited in its own ways with styling and sizes in certain aspects
